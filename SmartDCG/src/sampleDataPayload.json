@@ -1,0 +1,33 @@
+{
+    "timestamp": "2024-06-24T05:34:39.525Z",
+    "data": [
+        {
+            "deviceId": 1,
+            "online": true,
+            "Coils": [
+                {
+                    "address": 1,
+                    "value": true
+                }
+            ],
+            "DiscreteInputs": [
+                {
+                    "address": 1,
+                    "value": true
+                }
+            ],
+            "InputRegisters": [
+                {
+                    "address": 1,
+                    "value": 15
+                }
+            ],
+            "HoldingRegisters": [
+                {
+                    "address": 1,
+                    "value": 99
+                }
+            ]
+        }
+    ]
+}

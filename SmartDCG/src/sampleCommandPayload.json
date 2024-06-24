@@ -1,0 +1,20 @@
+{
+    "timestamp": "2024-06-24T05:34:39.525Z",
+    "data": [
+        {
+            "deviceId": 1,
+            "Coils": [
+                {
+                    "address": 1,
+                    "value": true
+                }
+            ],
+            "HoldingRegisters": [
+                {
+                    "address": 1,
+                    "value": 99
+                }
+            ]
+        }
+    ]
+}
